@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saikat Saha</h1>
-<h3 align="center">A passionate programmer specialized in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat-rs&label=Profile%20views&color=0e75b6&style=flat" alt="saikat-rs" /> </p>
 
